@@ -1,1 +1,1 @@
-Recently released [https://crates.io/crates/pipe-gpt](https://crates.io/crates/pipe-gpt) and soon I will return to [Game-Of-Life](https://github.com/craigmayhew/game-of-life). Follow on [X](https://x.com/craigmayhew) and [LinkedIn](https://www.linkedin.com/in/craigmayhew/) for rust related content. 
+I build practical software in Rust, especially CLI tools, WebAssembly experiments, and low-ceremony infrastructure.

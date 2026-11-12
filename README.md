@@ -1,1 +1,3 @@
-I build practical software in Rust, especially CLI tools, WebAssembly experiments, and low-ceremony infrastructure.
+I build practical, sometimes whimsical software in Rust.
+
+I also work with clients through [Code Futures](https://www.codefutures.uk)
